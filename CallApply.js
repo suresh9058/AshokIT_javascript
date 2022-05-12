@@ -39,3 +39,4 @@ console.log(test.apply(nums,[1,2]));//5
 
 // console.log(endTime-startTime);
 
+
